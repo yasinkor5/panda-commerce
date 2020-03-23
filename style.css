@@ -40,4 +40,23 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
 
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 200px;
+
+}
+#subscribe h6{
+    color: gray;S
+}
+footer
+texy align: center;
+}
